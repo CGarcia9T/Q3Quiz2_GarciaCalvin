@@ -1,0 +1,42 @@
+#title, #footer {
+	text-align: center;
+}
+#image {
+	width: 100%;
+}
+#mainimage {
+	width: 50%;
+}
+#body {
+	background-color: #ff9b7f;
+	color: #ffebe5;
+}
+#element-class {
+  overflow: auto;
+  scrollbar-width: none;
+}
+#element-class::-webkit-scrollbar {
+  display: none;
+}
+hr {
+	background-color: #ffebe5;
+}
+#main {
+	background-color: #E58B72;
+	border-radius: 25px;
+}
+#submit, #ticketprice, #printticket, #onemore {
+	color: #ffebe5;
+	background-color: #CE7D66;
+}
+#details {
+	text-align: center;
+}
+#main2 {
+	background-color: #CE7D66;
+	border-radius: 25px;
+}
+details {
+	background-color: #E58B72;
+	border-radius: 20px;
+}
